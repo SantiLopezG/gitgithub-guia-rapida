@@ -4,3 +4,4 @@ Alba Revuelta - UX
 Fiti Martin - BalonmanCarolina Massutti - ReactJS
 Carolina Massutti - ReactJS
 Carolina Massutti - ReactJS
+Alba revuelta - desarrollo
